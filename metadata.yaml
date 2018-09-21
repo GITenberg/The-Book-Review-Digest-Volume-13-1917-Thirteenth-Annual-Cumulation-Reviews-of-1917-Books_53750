@@ -1,5 +1,8 @@
 _repo: The-Book-Review-Digest-Volume-13-1917-Thirteenth-Annual-Cumulation-Reviews-of-1917-Books_53750
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 53750-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '47516'
     url: http://www.gutenberg.org/2009/agents/47516
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53750#The-Book-Review-Digest-Volume-13-1917-Thirteenth-Annual-Cumulation-Reviews-of-1917-Books
 gutenberg_issued: '2016-12-17'
 gutenberg_type: Text
 identifiers:
